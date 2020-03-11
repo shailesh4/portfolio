@@ -1,2 +1,2 @@
 # portfolio
-Please visit the website: https://www.shailesh.tk
+Please visit the website: https://www.shailesh.tk or if that doesn't work try this one: https://www.shailesh.netlify.com
